@@ -1,5 +1,7 @@
 # A-Machine-Learning-based-Visual-Method-for-Real-Time-Prediction-of-Mechanical-Properties
 
+# Abstract
+
 Human being can rapidly distinguish objects of surrounding scenarios and further estimate their material properties, only by visual information of shape, lightness, and texture, which kind of ability
 can help us understand surrounding environment to make a better decision. However, it is still a
 challenge to realize this object perception function for autonomous vehicles or robots. Therefore, this
@@ -15,3 +17,9 @@ is 17% and Poissons ratios is 11%, which indicates that the presented method can
 mechanical properties only by application of visual information.
 
 For more details, please refer to our [preprint](https://github.com/QianUW/A-Machine-Learning-based-Visual-Method-for-Real-Time-Prediction-of-Mechanical-Properties/blob/master/Preprint%20A%20Vision-based%20Deep%20Learning%20Method%20for%20Real-Time%20Prediction%20of%20Mechanical%20Properties.pdf).
+
+# Samples of Results
+# Indoor Samples
+![Indoor](Indoor%20Samples.jpg)
+# Outdoor Samples
+![Outdoor](Outdoor%20Samples.jpg)

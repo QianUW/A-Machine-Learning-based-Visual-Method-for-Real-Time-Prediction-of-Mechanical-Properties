@@ -14,4 +14,4 @@ numerical examples of 2000 images in the validation set, the average relative er
 is 17% and Poissons ratios is 11%, which indicates that the presented method can accurately estimate
 mechanical properties only by application of visual information.
 
-[GitHub](http://github.com)
+For more details, please refer to our [preprint](https://github.com/QianUW/A-Machine-Learning-based-Visual-Method-for-Real-Time-Prediction-of-Mechanical-Properties/blob/master/Preprint%20A%20Vision-based%20Deep%20Learning%20Method%20for%20Real-Time%20Prediction%20of%20Mechanical%20Properties.pdf).
